@@ -8,14 +8,21 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
+<body>
+    
 <header>
     <h1>Titre principal</h1>
 
     <?php
     include "menu.php";
     ?>
+    <p>tatatatatattatatatatattatattatattatatatattatattatattattatatatatattatattatatttatatatatttatatatata</p>
+    <p>ttatatatatattatattatattatatatatatattatatatatattatatttttattattattttattattatttatattatattatatatatta</p>
+    <p>tattatatatttatatatatattatattatattatatatatattatatatatatttatatatatattatattatattatattattatatatatata</p>
+    <p>tattatatatatattatattatattatatatattatatatatatatttatatatatattatattatattatatatatatattatattatattatat</p>
+    <p>tattatatatatatattatatatatattatattatattatatattatatattatatatttatatatatattatattatattatatatatatttata</p>
 
 </header>
 
-<body>
+
 
